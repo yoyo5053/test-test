@@ -1,6 +1,6 @@
-""<div class="panel panel-default" style="margin-bottom: 20px;">
+<!--<div class="panel panel-default" style="margin-bottom: 20px;">
   <div class="panel-heading bg-primary text-white">
-    🎯 Choisir le destinataire du message
+    <strong>🎯 Choisir le destinataire du message</strong>
   </div>
   <div class="panel-body">
     <!-- Sélecteur principal -->
@@ -42,4 +42,3 @@
     </div>
   </div>
 </div>
-""
